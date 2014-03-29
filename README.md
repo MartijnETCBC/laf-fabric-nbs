@@ -1,5 +1,5 @@
-![shebanq](https://raw.github.com/etcbc/shebanq/master/images/VU-ETCBC-small.png)
-![laf-fabric](https://raw.github.com/etcbc/shebanq/master/images/laf-fabric-small.png)
+![shebanq](https://raw.github.com/orgs/ETCBC/teams/master/images/VU-ETCBC-small.png)
+![laf-fabric](https://raw.github.com/orgs/ETCBC/teams/master/images/laf-fabric-small.png)
 
 IPython notebooks developed for the study of the Hebrew Bible.
 
@@ -8,13 +8,13 @@ IPython notebooks developed for the study of the Hebrew Bible.
 ## Text
 View the text itself, or visualizations of it.
 
-* [plain](http://nbviewer.ipython.org/github/etcbc/shebanq/blob/master/plain.ipynb)
-* [proper](http://nbviewer.ipython.org/github/etcbc/shebanq/blob/master/proper.ipynb)
+* [plain](http://nbviewer.ipython.org/github/orgs/ETCBC/teams/blob/master/plain.ipynb)
+* [proper](http://nbviewer.ipython.org/github/orgs/ETCBC/teams/blob/master/proper.ipynb)
 
 ## Annotating
 Making your own annotation and add them to the data for new analysis.
 
-* [annox_workflow](http://nbviewer.ipython.org/github/etcbc/shebanq/blob/master/annox_workflow.ipynb)
+* [annox_workflow](http://nbviewer.ipython.org/github/orgs/ETCBC/teams/blob/master/annox_workflow.ipynb)
 
 ## Feature Studies
 Explorations into the features in the ETCBC text database of the Hebrew Bible.
@@ -26,27 +26,27 @@ The other notebooks contain descriptions of the meanings of certain features and
 and they will show you examples, and they will test assertions about them.
 For example: *the ``clause_constituent_relation``-feature has value ``none`` for a node if and only if that node has no outgoing edges labeled ``mother``*.
 
-* [feature-doc](http://nbviewer.ipython.org/github/etcbc/shebanq/blob/master/feature-doc.ipynb)
-* [clause_phrase_types](http://nbviewer.ipython.org/github/etcbc/shebanq/blob/master/clause_phrase_types.ipynb)
+* [feature-doc](http://nbviewer.ipython.org/github/orgs/ETCBC/teams/blob/master/feature-doc.ipynb)
+* [clause_phrase_types](http://nbviewer.ipython.org/github/orgs/ETCBC/teams/blob/master/clause_phrase_types.ipynb)
 
 # Linguistic Variation
 Research into linguistic variation in the Hebrew Bible books.
 Datamining, statistics, visualization.
 
-* [cooccurrences](http://nbviewer.ipython.org/github/etcbc/shebanq/blob/master/cooccurrences.ipynb)
+* [cooccurrences](http://nbviewer.ipython.org/github/orgs/ETCBC/teams/blob/master/cooccurrences.ipynb)
 
 ## Syntax
 Research to syntactic phenomena in the sentences of the Hebrew Bible.
 Tree construction.
 Correlating morphological features to syntactic functions.
 
-* [trees](http://nbviewer.ipython.org/github/etcbc/shebanq/blob/master/trees.ipynb)
-* [participle](http://nbviewer.ipython.org/github/etcbc/shebanq/blob/master/participle.ipynb)
+* [trees](http://nbviewer.ipython.org/github/orgs/ETCBC/teams/blob/master/trees.ipynb)
+* [participle](http://nbviewer.ipython.org/github/orgs/ETCBC/teams/blob/master/participle.ipynb)
 
 ## Varia
 Miscellaneous contributions.
 
-* [verb-twins](http://nbviewer.ipython.org/github/etcbc/shebanq/blob/master/verb-twins.ipynb)
+* [verb-twins](http://nbviewer.ipython.org/github/orgs/ETCBC/teams/blob/master/verb-twins.ipynb)
 
 # Getting started
 In order to run these notebooks, you need:
