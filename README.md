@@ -51,8 +51,9 @@ Miscellaneous contributions.
 # Getting started
 In order to run these notebooks, you need:
 
-* download/clone [LAF-Fabric](https://github.com/dirkroorda/laf-fabric)
+* download/clone [LAF-Fabric](https://github.com/ETCBC/laf-fabric)
 * read some documentation [LAF-Fabric](http://laf-fabric.readthedocs.org/en/latest/)
 * [download](https://www.dropbox.com/s/1oqvb92sqn7vuml/laf-fabric-data.zip) the compiled LAF version of the Hebrew Bible
   (this is a password protected zip file of ~ 150 MB, ask [Dirk Roorda](dirk.roorda@dans.knaw.nl) for the password).
+* see other notebooks at [contributions](https://github.com/ETCBC/contributions)
 
