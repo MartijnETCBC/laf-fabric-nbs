@@ -43,11 +43,6 @@ Correlating morphological features to syntactic functions.
 * [trees](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/trees.ipynb)
 * [participle](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/participle.ipynb)
 
-## Varia
-Miscellaneous contributions.
-
-* [verb-twins](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/verb-twins.ipynb)
-
 # Getting started
 In order to run these notebooks, you need:
 
