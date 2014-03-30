@@ -3,15 +3,17 @@
 
 IPython notebooks developed for the study of the Hebrew Bible.
 
-> We see some people who areattached to this thing at one time, and attached to something else at another time.
-This is like the one who is digging for water, and digs a little here and a littlethere.
+> We see some people who are attached to this thing at one time, and attached to something else at another time.
+This is like the one who is digging for water, and digs a little here and a little there.
 He dies of thirst without finding water.
-He is not like the one who digs inone place, trusting and relying on Allah.
-He finds water and drinks and lets other  people drink.
+He is not like the one who digs in one place, trusting and relying on Allah.
+He finds water and drinks and lets other people drink.
 
 > Shaykh ad-Darqāwī
-[The Darqawi Way the Letters of Shaykh Mawlay Al Arabi Ad Darqawi, 116](http://www.scribd.com/doc/96341123/The-Darqawi-Way-the-Letters-of-Shaykh-Mawlay-Al-Arabi-Ad-Darqawi)
-[Martin Lings: What is sufism. Note on page 21, 22](http://books.google.nl/books?id=vTlRYfcwnK4C&pg=PA22&lpg=PA22&dq=martin+lings+what+is+sufism+digging+thirst&source=bl&ots=GHm4BBLQyX&sig=OKTUNntzuHMb2tILEIaxKK8oBCc&hl=en&sa=X&ei=Qck3U8T4PMK_ygOXj4CIAg&ved=0CCoQ6AEwAQ#v=onepage&q=martin%20lings%20what%20is%20sufism%20digging%20thirst&f=false)
+
+> [The Darqawi Way the Letters of Shaykh Mawlay Al Arabi Ad Darqawi, 116](http://www.scribd.com/doc/96341123/The-Darqawi-Way-the-Letters-of-Shaykh-Mawlay-Al-Arabi-Ad-Darqawi)
+
+>[Martin Lings: What is sufism. Note on page 21, 22](http://books.google.nl/books?id=vTlRYfcwnK4C&pg=PA22&lpg=PA22&dq=martin+lings+what+is+sufism+digging+thirst&source=bl&ots=GHm4BBLQyX&sig=OKTUNntzuHMb2tILEIaxKK8oBCc&hl=en&sa=X&ei=Qck3U8T4PMK_ygOXj4CIAg&ved=0CCoQ6AEwAQ#v=onepage&q=martin%20lings%20what%20is%20sufism%20digging%20thirst&f=false)
 
 # Table of notebooks
 
