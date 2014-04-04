@@ -1,0 +1,13 @@
+
+select all objects
+in {1-20}
+where
+    [phrase
+        [word surface_consonants = 'H']
+        [word]
+    ]
+    ..
+    [phrase
+        [word]
+        [word]
+    ]
