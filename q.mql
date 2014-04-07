@@ -1,13 +1,16 @@
-
 select all objects
-in {1-20}
+in {1-2000}
 where
-    [phrase
-        [word surface_consonants = 'H']
-        [word]
-    ]
-    ..
-    [phrase
-        [word]
-        [word]
-    ]
+[clause
+ [phrase FIRST  phrase_type = CP
+  [word  FIRST AND LAST part_of_speech = conjunction]
+ ]
+!
+ [phrase phrase_type = NegP
+  [word  FIRST AND LAST part_of_speech = negative]
+ ]
+!
+ [phrase LAST  phrase_type = VP
+ ]
+]
+
