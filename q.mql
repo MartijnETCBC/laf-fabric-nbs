@@ -1,16 +1,4 @@
 select all objects
-in {1-2000}
+in {2-13}
 where
-[clause
- [phrase FIRST  phrase_type = CP
-  [word  FIRST AND LAST part_of_speech = conjunction]
- ]
-!
- [phrase phrase_type = NegP
-  [word  FIRST AND LAST part_of_speech = negative]
- ]
-!
- [phrase LAST  phrase_type = VP
- ]
-]
-
+[word get text_plain,surface_consonants]
