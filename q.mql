@@ -1,4 +1,6 @@
 select all objects
-in {2-13}
+in {1-100}
 where
-[word get text_plain,surface_consonants]
+[subphrase AS sp
+ [word parents HAS sp.self]
+]
