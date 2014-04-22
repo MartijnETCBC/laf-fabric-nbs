@@ -1,7 +1,7 @@
 ![shebanq](https://raw.github.com/ETCBC/laf-fabric-nbs/master/images/VU-ETCBC-small.png)
 ![laf-fabric](https://raw.github.com/ETCBC/laf-fabric-nbs/master/images/laf-fabric-small.png)
 
-IPython notebooks developed for the study of the Hebrew Bible.
+IPython notebooks developed for the study of the Hebrew Bible and their textual sources.
 
 > We see some people who are attached to this thing at one time, and attached to something else at another time.
 This is like the one who is digging for water, and digs a little here and a little there.
@@ -22,6 +22,10 @@ View the text itself, or visualizations of it.
 
 * [plain](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/plain.ipynb)
 * [proper](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/proper.ipynb)
+
+Or view parts of the [Peshitta](http://en.wikipedia.org/wiki/Peshitta) text:
+
+* [plain-calap](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/plain_calap.ipynb)
 
 ## Annotating
 Making your own annotation and add them to the data for new analysis.
