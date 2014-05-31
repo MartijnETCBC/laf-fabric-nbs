@@ -56,7 +56,8 @@ Research to syntactic phenomena in the sentences of the Hebrew Bible.
 Tree construction.
 Correlating morphological features to syntactic functions.
 
-* [trees](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/trees.ipynb)
+* [trees (bhs)](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/trees_bhs.ipynb)
+* [trees (calap)](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/trees_calap.ipynb)
 * [participle](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/participle.ipynb)
 
 # Getting started
