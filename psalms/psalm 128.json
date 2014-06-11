@@ -1,0 +1,4136 @@
+{
+    "dependencies": [
+        {
+            "child": 1068120,
+            "parent": 1123744,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075538,
+            "parent": 1068120,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075538,
+            "parent": 1123744,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1111042,
+            "parent": 1075538,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111042,
+            "parent": 1068120,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111042,
+            "parent": 1123744,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058701,
+            "parent": 1075538,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058701,
+            "parent": 1068120,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058701,
+            "parent": 1123744,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058701,
+            "parent": 1111042,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058702,
+            "parent": 1075538,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058702,
+            "parent": 1068120,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058702,
+            "parent": 1123744,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058702,
+            "parent": 1111042,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058703,
+            "parent": 1075538,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058703,
+            "parent": 1068120,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058703,
+            "parent": 1123744,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058703,
+            "parent": 1111042,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068121,
+            "parent": 1075538,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068121,
+            "parent": 1123745,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068121,
+            "parent": 1111042,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075539,
+            "parent": 1068121,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075539,
+            "parent": 1123745,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075539,
+            "parent": 1111042,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111043,
+            "parent": 1075539,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111043,
+            "parent": 1068121,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111043,
+            "parent": 1123745,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058704,
+            "parent": 1075539,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058704,
+            "parent": 1068121,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058704,
+            "parent": 1123745,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058704,
+            "parent": 1111043,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068122,
+            "parent": 1075539,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068122,
+            "parent": 1123746,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068122,
+            "parent": 1111043,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075540,
+            "parent": 1068122,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075540,
+            "parent": 1123746,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075540,
+            "parent": 1111043,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111044,
+            "parent": 1075540,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111044,
+            "parent": 1068122,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111044,
+            "parent": 1123746,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058705,
+            "parent": 1075540,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058705,
+            "parent": 1068122,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058705,
+            "parent": 1123746,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058705,
+            "parent": 1111044,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058706,
+            "parent": 1075540,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058706,
+            "parent": 1068122,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058706,
+            "parent": 1123746,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058706,
+            "parent": 1111044,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058707,
+            "parent": 1075540,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058707,
+            "parent": 1068122,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058707,
+            "parent": 1123746,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058707,
+            "parent": 1111044,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068123,
+            "parent": 1075540,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068123,
+            "parent": 1123747,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068123,
+            "parent": 1111044,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075541,
+            "parent": 1068123,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075541,
+            "parent": 1123747,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075541,
+            "parent": 1111044,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111045,
+            "parent": 1075541,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111045,
+            "parent": 1068123,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111045,
+            "parent": 1123747,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058708,
+            "parent": 1075541,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058708,
+            "parent": 1068123,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058708,
+            "parent": 1123747,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058708,
+            "parent": 1111045,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111046,
+            "parent": 1075541,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111046,
+            "parent": 1068123,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111046,
+            "parent": 1123747,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058709,
+            "parent": 1075541,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058709,
+            "parent": 1068123,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058709,
+            "parent": 1123747,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058709,
+            "parent": 1111046,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111047,
+            "parent": 1075541,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111047,
+            "parent": 1068123,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111047,
+            "parent": 1123747,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058710,
+            "parent": 1075541,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058710,
+            "parent": 1068123,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058710,
+            "parent": 1123747,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058710,
+            "parent": 1111047,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058711,
+            "parent": 1075541,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058711,
+            "parent": 1068123,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058711,
+            "parent": 1123747,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058711,
+            "parent": 1111047,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068124,
+            "parent": 1075541,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068124,
+            "parent": 1123748,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068124,
+            "parent": 1111047,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075542,
+            "parent": 1068124,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075542,
+            "parent": 1123748,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075542,
+            "parent": 1111047,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111048,
+            "parent": 1075542,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111048,
+            "parent": 1068124,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111048,
+            "parent": 1123748,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058712,
+            "parent": 1075542,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058712,
+            "parent": 1068124,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058712,
+            "parent": 1123748,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058712,
+            "parent": 1111048,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058713,
+            "parent": 1075542,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058713,
+            "parent": 1068124,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058713,
+            "parent": 1123748,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058713,
+            "parent": 1111048,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068125,
+            "parent": 1075542,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068125,
+            "parent": 1123749,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068125,
+            "parent": 1111048,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075543,
+            "parent": 1068125,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075543,
+            "parent": 1123749,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075543,
+            "parent": 1111048,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111049,
+            "parent": 1075543,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111049,
+            "parent": 1068125,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111049,
+            "parent": 1123749,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058714,
+            "parent": 1075543,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058714,
+            "parent": 1068125,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058714,
+            "parent": 1123749,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058714,
+            "parent": 1111049,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111050,
+            "parent": 1075543,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111050,
+            "parent": 1068125,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111050,
+            "parent": 1123749,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058715,
+            "parent": 1075543,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058715,
+            "parent": 1068125,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058715,
+            "parent": 1123749,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058715,
+            "parent": 1111050,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068126,
+            "parent": 1075543,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068126,
+            "parent": 1123750,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068126,
+            "parent": 1111050,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075544,
+            "parent": 1068126,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075544,
+            "parent": 1123750,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075544,
+            "parent": 1111050,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111051,
+            "parent": 1075544,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111051,
+            "parent": 1068126,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111051,
+            "parent": 1123750,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058716,
+            "parent": 1075544,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058716,
+            "parent": 1068126,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058716,
+            "parent": 1123750,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058716,
+            "parent": 1111051,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068127,
+            "parent": 1075544,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068127,
+            "parent": 1123751,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068127,
+            "parent": 1111051,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075545,
+            "parent": 1068127,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075545,
+            "parent": 1123751,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075545,
+            "parent": 1111051,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111052,
+            "parent": 1075545,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111052,
+            "parent": 1068127,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111052,
+            "parent": 1123751,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058717,
+            "parent": 1075545,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058717,
+            "parent": 1068127,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058717,
+            "parent": 1123751,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058717,
+            "parent": 1111052,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111053,
+            "parent": 1075545,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111053,
+            "parent": 1068127,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111053,
+            "parent": 1123751,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058718,
+            "parent": 1075545,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058718,
+            "parent": 1068127,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058718,
+            "parent": 1123751,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058718,
+            "parent": 1111053,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111054,
+            "parent": 1075545,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111054,
+            "parent": 1068127,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111054,
+            "parent": 1123751,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058719,
+            "parent": 1075545,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058719,
+            "parent": 1068127,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058719,
+            "parent": 1123751,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058719,
+            "parent": 1111054,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068128,
+            "parent": 1075545,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068128,
+            "parent": 1123752,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068128,
+            "parent": 1111054,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075546,
+            "parent": 1068128,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075546,
+            "parent": 1123752,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075546,
+            "parent": 1111054,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111055,
+            "parent": 1075546,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111055,
+            "parent": 1068128,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111055,
+            "parent": 1123752,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058720,
+            "parent": 1075546,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058720,
+            "parent": 1068128,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058720,
+            "parent": 1123752,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058720,
+            "parent": 1111055,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111056,
+            "parent": 1075546,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111056,
+            "parent": 1068128,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111056,
+            "parent": 1123752,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058721,
+            "parent": 1075546,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058721,
+            "parent": 1068128,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058721,
+            "parent": 1123752,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058721,
+            "parent": 1111056,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058722,
+            "parent": 1075546,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058722,
+            "parent": 1068128,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058722,
+            "parent": 1123752,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058722,
+            "parent": 1111056,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058723,
+            "parent": 1075546,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058723,
+            "parent": 1068128,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058723,
+            "parent": 1123752,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058723,
+            "parent": 1111056,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111057,
+            "parent": 1075546,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111057,
+            "parent": 1068128,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111057,
+            "parent": 1123752,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058724,
+            "parent": 1075546,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058724,
+            "parent": 1068128,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058724,
+            "parent": 1123752,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058724,
+            "parent": 1111057,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058725,
+            "parent": 1075546,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058725,
+            "parent": 1068128,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058725,
+            "parent": 1123752,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058725,
+            "parent": 1111057,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058726,
+            "parent": 1075546,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058726,
+            "parent": 1068128,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058726,
+            "parent": 1123752,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058726,
+            "parent": 1111057,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068129,
+            "parent": 1075546,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068129,
+            "parent": 1123753,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068129,
+            "parent": 1111057,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075547,
+            "parent": 1068129,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075547,
+            "parent": 1123753,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075547,
+            "parent": 1111057,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111058,
+            "parent": 1075547,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111058,
+            "parent": 1068129,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111058,
+            "parent": 1123753,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058727,
+            "parent": 1075547,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058727,
+            "parent": 1068129,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058727,
+            "parent": 1123753,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058727,
+            "parent": 1111058,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111059,
+            "parent": 1075547,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111059,
+            "parent": 1068129,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111059,
+            "parent": 1123753,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058728,
+            "parent": 1075547,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058728,
+            "parent": 1068129,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058728,
+            "parent": 1123753,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058728,
+            "parent": 1111059,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058729,
+            "parent": 1075547,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058729,
+            "parent": 1068129,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058729,
+            "parent": 1123753,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058729,
+            "parent": 1111059,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058730,
+            "parent": 1075547,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058730,
+            "parent": 1068129,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058730,
+            "parent": 1123753,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058730,
+            "parent": 1111059,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111060,
+            "parent": 1075547,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111060,
+            "parent": 1068129,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111060,
+            "parent": 1123753,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058731,
+            "parent": 1075547,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058731,
+            "parent": 1068129,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058731,
+            "parent": 1123753,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058731,
+            "parent": 1111060,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111061,
+            "parent": 1075547,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111061,
+            "parent": 1068129,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111061,
+            "parent": 1123753,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058732,
+            "parent": 1075547,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058732,
+            "parent": 1068129,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058732,
+            "parent": 1123753,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058732,
+            "parent": 1111061,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058733,
+            "parent": 1075547,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058733,
+            "parent": 1068129,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058733,
+            "parent": 1123753,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058733,
+            "parent": 1111061,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068130,
+            "parent": 1075547,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068130,
+            "parent": 1123754,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068130,
+            "parent": 1111061,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075548,
+            "parent": 1068130,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075548,
+            "parent": 1123754,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075548,
+            "parent": 1111061,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111062,
+            "parent": 1075548,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111062,
+            "parent": 1068130,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111062,
+            "parent": 1123754,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058734,
+            "parent": 1075548,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058734,
+            "parent": 1068130,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058734,
+            "parent": 1123754,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058734,
+            "parent": 1111062,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068131,
+            "parent": 1075548,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068131,
+            "parent": 1123755,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068131,
+            "parent": 1111062,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075549,
+            "parent": 1068131,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075549,
+            "parent": 1123755,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075549,
+            "parent": 1111062,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111063,
+            "parent": 1075549,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111063,
+            "parent": 1068131,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111063,
+            "parent": 1123755,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058735,
+            "parent": 1075549,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058735,
+            "parent": 1068131,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058735,
+            "parent": 1123755,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058735,
+            "parent": 1111063,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111064,
+            "parent": 1075549,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111064,
+            "parent": 1068131,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111064,
+            "parent": 1123755,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058736,
+            "parent": 1075549,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058736,
+            "parent": 1068131,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058736,
+            "parent": 1123755,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058736,
+            "parent": 1111064,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111065,
+            "parent": 1075549,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111065,
+            "parent": 1068131,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111065,
+            "parent": 1123755,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058737,
+            "parent": 1075549,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058737,
+            "parent": 1068131,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058737,
+            "parent": 1123755,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058737,
+            "parent": 1111065,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111066,
+            "parent": 1075549,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111066,
+            "parent": 1068131,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111066,
+            "parent": 1123755,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058738,
+            "parent": 1075549,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058738,
+            "parent": 1068131,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058738,
+            "parent": 1123755,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058738,
+            "parent": 1111066,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111067,
+            "parent": 1075549,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111067,
+            "parent": 1068131,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111067,
+            "parent": 1123755,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058739,
+            "parent": 1075549,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058739,
+            "parent": 1068131,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058739,
+            "parent": 1123755,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058739,
+            "parent": 1111067,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058740,
+            "parent": 1075549,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058740,
+            "parent": 1068131,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058740,
+            "parent": 1123755,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058740,
+            "parent": 1111067,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068132,
+            "parent": 1075549,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068132,
+            "parent": 1123756,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068132,
+            "parent": 1111067,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075550,
+            "parent": 1068132,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075550,
+            "parent": 1123756,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075550,
+            "parent": 1111067,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111068,
+            "parent": 1075550,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111068,
+            "parent": 1068132,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111068,
+            "parent": 1123756,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058741,
+            "parent": 1075550,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058741,
+            "parent": 1068132,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058741,
+            "parent": 1123756,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058741,
+            "parent": 1111068,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111069,
+            "parent": 1075550,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111069,
+            "parent": 1068132,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111069,
+            "parent": 1123756,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058742,
+            "parent": 1075550,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058742,
+            "parent": 1068132,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058742,
+            "parent": 1123756,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058742,
+            "parent": 1111069,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111070,
+            "parent": 1075550,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111070,
+            "parent": 1068132,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111070,
+            "parent": 1123756,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058743,
+            "parent": 1075550,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058743,
+            "parent": 1068132,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058743,
+            "parent": 1123756,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058743,
+            "parent": 1111070,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058744,
+            "parent": 1075550,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058744,
+            "parent": 1068132,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058744,
+            "parent": 1123756,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058744,
+            "parent": 1111070,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068133,
+            "parent": 1075550,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068133,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068133,
+            "parent": 1111070,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075551,
+            "parent": 1068133,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075551,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075551,
+            "parent": 1111070,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111071,
+            "parent": 1075551,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111071,
+            "parent": 1068133,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111071,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058745,
+            "parent": 1075551,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058745,
+            "parent": 1068133,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058745,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058745,
+            "parent": 1111071,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111072,
+            "parent": 1075551,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111072,
+            "parent": 1068133,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111072,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058746,
+            "parent": 1075551,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058746,
+            "parent": 1068133,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058746,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058746,
+            "parent": 1111072,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111073,
+            "parent": 1075551,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111073,
+            "parent": 1068133,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111073,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058747,
+            "parent": 1075551,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058747,
+            "parent": 1068133,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058747,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058747,
+            "parent": 1111073,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058748,
+            "parent": 1075551,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058748,
+            "parent": 1068133,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058748,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058748,
+            "parent": 1111073,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058749,
+            "parent": 1075551,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058749,
+            "parent": 1068133,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058749,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058749,
+            "parent": 1111073,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111074,
+            "parent": 1075551,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111074,
+            "parent": 1068133,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111074,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058750,
+            "parent": 1075551,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058750,
+            "parent": 1068133,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058750,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058750,
+            "parent": 1111074,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058751,
+            "parent": 1075551,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058751,
+            "parent": 1068133,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058751,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058751,
+            "parent": 1111074,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058752,
+            "parent": 1075551,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058752,
+            "parent": 1068133,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058752,
+            "parent": 1123757,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058752,
+            "parent": 1111074,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068134,
+            "parent": 1075551,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068134,
+            "parent": 1123758,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068134,
+            "parent": 1111074,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075552,
+            "parent": 1068134,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075552,
+            "parent": 1123758,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075552,
+            "parent": 1111074,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111075,
+            "parent": 1075552,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111075,
+            "parent": 1068134,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111075,
+            "parent": 1123758,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058753,
+            "parent": 1075552,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058753,
+            "parent": 1068134,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058753,
+            "parent": 1123758,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058753,
+            "parent": 1111075,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111076,
+            "parent": 1075552,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111076,
+            "parent": 1068134,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111076,
+            "parent": 1123758,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058754,
+            "parent": 1075552,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058754,
+            "parent": 1068134,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058754,
+            "parent": 1123758,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058754,
+            "parent": 1111076,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111077,
+            "parent": 1075552,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111077,
+            "parent": 1068134,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111077,
+            "parent": 1123758,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058755,
+            "parent": 1075552,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058755,
+            "parent": 1068134,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058755,
+            "parent": 1123758,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058755,
+            "parent": 1111077,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111078,
+            "parent": 1075552,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111078,
+            "parent": 1068134,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111078,
+            "parent": 1123758,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058756,
+            "parent": 1075552,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058756,
+            "parent": 1068134,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058756,
+            "parent": 1123758,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058756,
+            "parent": 1111078,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058757,
+            "parent": 1075552,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058757,
+            "parent": 1068134,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058757,
+            "parent": 1123758,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058757,
+            "parent": 1111078,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1068135,
+            "parent": 1075552,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1068135,
+            "parent": 1123759,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1068135,
+            "parent": 1111078,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1075553,
+            "parent": 1068135,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1075553,
+            "parent": 1123759,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1075553,
+            "parent": 1111078,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111079,
+            "parent": 1075553,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111079,
+            "parent": 1068135,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111079,
+            "parent": 1123759,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058758,
+            "parent": 1075553,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058758,
+            "parent": 1068135,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058758,
+            "parent": 1123759,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058758,
+            "parent": 1111079,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1111080,
+            "parent": 1075553,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1111080,
+            "parent": 1068135,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1111080,
+            "parent": 1123759,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058759,
+            "parent": 1075553,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058759,
+            "parent": 1068135,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058759,
+            "parent": 1123759,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058759,
+            "parent": 1111080,
+            "relation": "in_phrase"
+        },
+        {
+            "child": 1058760,
+            "parent": 1075553,
+            "relation": "in_clause_atom"
+        },
+        {
+            "child": 1058760,
+            "parent": 1068135,
+            "relation": "in_clause"
+        },
+        {
+            "child": 1058760,
+            "parent": 1123759,
+            "relation": "in_sentence"
+        },
+        {
+            "child": 1058760,
+            "parent": 1111080,
+            "relation": "in_phrase"
+        }
+    ],
+    "tokens": [
+        {
+            "id": 1123744,
+            "length": 3,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068120,
+            "length": 3,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "NmCl",
+            "id": 1075538,
+            "length": 3,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111042,
+            "length": 3,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "NP",
+            "start": 0
+        },
+        {
+            "g": "unknown",
+            "id": 1058701,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 0,
+            "tense": "none",
+            "text": "שׁיר",
+            "trans": "CJR"
+        },
+        {
+            "g": "none",
+            "id": 1058702,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "article",
+            "pntype": "none",
+            "pos": "article",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 1,
+            "tense": "none",
+            "text": "ה",
+            "trans": "H"
+        },
+        {
+            "g": "feminine",
+            "id": 1058703,
+            "length": 1,
+            "loc": "Absent",
+            "n": "plural",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 2,
+            "tense": "none",
+            "text": "מעלות",
+            "trans": "M<LWT"
+        },
+        {
+            "id": 1123745,
+            "length": 1,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068121,
+            "length": 1,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "NmCl",
+            "id": 1075539,
+            "length": 1,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111043,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "NP",
+            "start": 0
+        },
+        {
+            "g": "masculine",
+            "id": 1058704,
+            "length": 1,
+            "loc": "Absent",
+            "n": "plural",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 0,
+            "tense": "none",
+            "text": "אשׁרי",
+            "trans": ">CRJ"
+        },
+        {
+            "id": 1123746,
+            "length": 3,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068122,
+            "length": 3,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "NmCl",
+            "id": 1075540,
+            "length": 3,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111044,
+            "length": 3,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "NP",
+            "start": 0
+        },
+        {
+            "g": "unknown",
+            "id": 1058705,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 0,
+            "tense": "none",
+            "text": "כל",
+            "trans": "KL"
+        },
+        {
+            "g": "unknown",
+            "id": 1058706,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "adjective",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 1,
+            "tense": "none",
+            "text": "ירא",
+            "trans": "JR>"
+        },
+        {
+            "g": "masculine",
+            "id": 1058707,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "proper",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 2,
+            "tense": "none",
+            "text": "יהוה",
+            "trans": "JHWH"
+        },
+        {
+            "id": 1123747,
+            "length": 4,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068123,
+            "length": 4,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "PtcA",
+            "id": 1075541,
+            "length": 4,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111045,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "CP",
+            "start": 0
+        },
+        {
+            "g": "none",
+            "id": 1058708,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "conjunction",
+            "pntype": "none",
+            "pos": "article",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 0,
+            "tense": "none",
+            "text": "ה",
+            "trans": "H"
+        },
+        {
+            "id": 1111046,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "PreC",
+            "ptype": "VP",
+            "start": 1
+        },
+        {
+            "g": "masculine",
+            "id": 1058709,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "none",
+            "otype": "word",
+            "p": "unknown",
+            "pdpos": "verb",
+            "pntype": "none",
+            "pos": "verb",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 1,
+            "tense": "participle",
+            "text": "הלך",
+            "trans": "HLk"
+        },
+        {
+            "id": 1111047,
+            "length": 2,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "PP",
+            "start": 2
+        },
+        {
+            "g": "none",
+            "id": 1058710,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "preposition",
+            "pntype": "none",
+            "pos": "preposition",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 2,
+            "tense": "none",
+            "text": "ב",
+            "trans": "B"
+        },
+        {
+            "g": "masculine",
+            "id": 1058711,
+            "length": 1,
+            "loc": "Absent",
+            "n": "plural",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "masculine",
+            "sn": "singular",
+            "sp": "third_person",
+            "start": 3,
+            "tense": "none",
+            "text": "דרכיו",
+            "trans": "DRKJW"
+        },
+        {
+            "id": 1123748,
+            "length": 2,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068124,
+            "length": 2,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "NmCl",
+            "id": 1075542,
+            "length": 2,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111048,
+            "length": 2,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "NP",
+            "start": 0
+        },
+        {
+            "g": "unknown",
+            "id": 1058712,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 0,
+            "tense": "none",
+            "text": "יגיע",
+            "trans": "JGJ<"
+        },
+        {
+            "g": "unknown",
+            "id": 1058713,
+            "length": 1,
+            "loc": "Absent",
+            "n": "dual",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "masculine",
+            "sn": "singular",
+            "sp": "second_person",
+            "start": 1,
+            "tense": "none",
+            "text": "כפיך",
+            "trans": "KPJk"
+        },
+        {
+            "id": 1123749,
+            "length": 2,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068125,
+            "length": 2,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "xYqt",
+            "id": 1075543,
+            "length": 2,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111049,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "CP",
+            "start": 0
+        },
+        {
+            "g": "none",
+            "id": 1058714,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "conjunction",
+            "pntype": "none",
+            "pos": "conjunction",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 0,
+            "tense": "none",
+            "text": "כי",
+            "trans": "KJ"
+        },
+        {
+            "id": 1111050,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Pred",
+            "ptype": "VP",
+            "start": 1
+        },
+        {
+            "g": "masculine",
+            "id": 1058715,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "none",
+            "otype": "word",
+            "p": "second_person",
+            "pdpos": "verb",
+            "pntype": "none",
+            "pos": "verb",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 1,
+            "tense": "imperfect",
+            "text": "תאכל",
+            "trans": "T>KL"
+        },
+        {
+            "id": 1123750,
+            "length": 1,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068126,
+            "length": 1,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "NmCl",
+            "id": 1075544,
+            "length": 1,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111051,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "NP",
+            "start": 0
+        },
+        {
+            "g": "masculine",
+            "id": 1058716,
+            "length": 1,
+            "loc": "Absent",
+            "n": "plural",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "masculine",
+            "sn": "singular",
+            "sp": "second_person",
+            "start": 0,
+            "tense": "none",
+            "text": "אשׁריך",
+            "trans": ">CRJk"
+        },
+        {
+            "id": 1123751,
+            "length": 3,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068127,
+            "length": 3,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "WQtl",
+            "id": 1075545,
+            "length": 3,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111052,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "CP",
+            "start": 0
+        },
+        {
+            "g": "none",
+            "id": 1058717,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "conjunction",
+            "pntype": "none",
+            "pos": "conjunction",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 0,
+            "tense": "none",
+            "text": "ו",
+            "trans": "W"
+        },
+        {
+            "id": 1111053,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Pred",
+            "ptype": "VP",
+            "start": 1
+        },
+        {
+            "g": "masculine",
+            "id": 1058718,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "none",
+            "otype": "word",
+            "p": "third_person",
+            "pdpos": "verb",
+            "pntype": "none",
+            "pos": "verb",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 1,
+            "tense": "perfect",
+            "text": "טוב",
+            "trans": "VWB"
+        },
+        {
+            "id": 1111054,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "PP",
+            "start": 2
+        },
+        {
+            "g": "none",
+            "id": 1058719,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "preposition",
+            "pntype": "none",
+            "pos": "preposition",
+            "sg": "masculine",
+            "sn": "singular",
+            "sp": "second_person",
+            "start": 2,
+            "tense": "none",
+            "text": "לך",
+            "trans": "Lk"
+        },
+        {
+            "id": 1123752,
+            "length": 7,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068128,
+            "length": 7,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "NmCl",
+            "id": 1075546,
+            "length": 7,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111055,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "NP",
+            "start": 0
+        },
+        {
+            "g": "feminine",
+            "id": 1058720,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "masculine",
+            "sn": "singular",
+            "sp": "second_person",
+            "start": 0,
+            "tense": "none",
+            "text": "אשׁתך",
+            "trans": ">CTk"
+        },
+        {
+            "id": 1111056,
+            "length": 3,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "PP",
+            "start": 1
+        },
+        {
+            "g": "none",
+            "id": 1058721,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "preposition",
+            "pntype": "none",
+            "pos": "preposition",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 1,
+            "tense": "none",
+            "text": "כ",
+            "trans": "K"
+        },
+        {
+            "g": "unknown",
+            "id": 1058722,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 2,
+            "tense": "none",
+            "text": "גפן",
+            "trans": "GPn"
+        },
+        {
+            "g": "feminine",
+            "id": 1058723,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "none",
+            "otype": "word",
+            "p": "unknown",
+            "pdpos": "adjective",
+            "pntype": "none",
+            "pos": "verb",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 3,
+            "tense": "participle",
+            "text": "פריה",
+            "trans": "PRJH"
+        },
+        {
+            "id": 1111057,
+            "length": 3,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "PP",
+            "start": 4
+        },
+        {
+            "g": "none",
+            "id": 1058724,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "preposition",
+            "pntype": "none",
+            "pos": "preposition",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 4,
+            "tense": "none",
+            "text": "ב",
+            "trans": "B"
+        },
+        {
+            "g": "feminine",
+            "id": 1058725,
+            "length": 1,
+            "loc": "Absent",
+            "n": "dual",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 5,
+            "tense": "none",
+            "text": "ירכתי",
+            "trans": "JRKTJ"
+        },
+        {
+            "g": "unknown",
+            "id": 1058726,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "masculine",
+            "sn": "singular",
+            "sp": "second_person",
+            "start": 6,
+            "tense": "none",
+            "text": "ביתך",
+            "trans": "BJTk"
+        },
+        {
+            "id": 1123753,
+            "length": 7,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068129,
+            "length": 7,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "NmCl",
+            "id": 1075547,
+            "length": 7,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111058,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "NP",
+            "start": 0
+        },
+        {
+            "g": "masculine",
+            "id": 1058727,
+            "length": 1,
+            "loc": "Absent",
+            "n": "plural",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "masculine",
+            "sn": "singular",
+            "sp": "second_person",
+            "start": 0,
+            "tense": "none",
+            "text": "בניך",
+            "trans": "BNJk"
+        },
+        {
+            "id": 1111059,
+            "length": 3,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "PP",
+            "start": 1
+        },
+        {
+            "g": "none",
+            "id": 1058728,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "preposition",
+            "pntype": "none",
+            "pos": "preposition",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 1,
+            "tense": "none",
+            "text": "כ",
+            "trans": "K"
+        },
+        {
+            "g": "masculine",
+            "id": 1058729,
+            "length": 1,
+            "loc": "Absent",
+            "n": "plural",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 2,
+            "tense": "none",
+            "text": "שׁתלי",
+            "trans": "CTLJ"
+        },
+        {
+            "g": "masculine",
+            "id": 1058730,
+            "length": 1,
+            "loc": "Absent",
+            "n": "plural",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 3,
+            "tense": "none",
+            "text": "זיתים",
+            "trans": "ZJTJm"
+        },
+        {
+            "id": 1111060,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "NP",
+            "start": 4
+        },
+        {
+            "g": "unknown",
+            "id": 1058731,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 4,
+            "tense": "none",
+            "text": "סביב",
+            "trans": "SBJB"
+        },
+        {
+            "id": 1111061,
+            "length": 2,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "PP",
+            "start": 5
+        },
+        {
+            "g": "none",
+            "id": 1058732,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "preposition",
+            "pntype": "none",
+            "pos": "preposition",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 5,
+            "tense": "none",
+            "text": "ל",
+            "trans": "L"
+        },
+        {
+            "g": "unknown",
+            "id": 1058733,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "masculine",
+            "sn": "singular",
+            "sp": "second_person",
+            "start": 6,
+            "tense": "none",
+            "text": "שׁלחנך",
+            "trans": "CLXNk"
+        },
+        {
+            "id": 1123754,
+            "length": 1,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068130,
+            "length": 1,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "NmCl",
+            "id": 1075548,
+            "length": 1,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111062,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "InjP",
+            "start": 0
+        },
+        {
+            "g": "none",
+            "id": 1058734,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "interjection",
+            "pntype": "none",
+            "pos": "interjection",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 0,
+            "tense": "none",
+            "text": "הנה",
+            "trans": "HNH"
+        },
+        {
+            "id": 1123755,
+            "length": 6,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068131,
+            "length": 6,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "xYqt",
+            "id": 1075549,
+            "length": 6,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111063,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "CP",
+            "start": 0
+        },
+        {
+            "g": "none",
+            "id": 1058735,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "conjunction",
+            "pntype": "none",
+            "pos": "conjunction",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 0,
+            "tense": "none",
+            "text": "כי",
+            "trans": "KJ"
+        },
+        {
+            "id": 1111064,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "AdvP",
+            "start": 1
+        },
+        {
+            "g": "none",
+            "id": 1058736,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "adverb",
+            "pntype": "none",
+            "pos": "adverb",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 1,
+            "tense": "none",
+            "text": "כן",
+            "trans": "Kn"
+        },
+        {
+            "id": 1111065,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Pred",
+            "ptype": "VP",
+            "start": 2
+        },
+        {
+            "g": "masculine",
+            "id": 1058737,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "none",
+            "otype": "word",
+            "p": "third_person",
+            "pdpos": "verb",
+            "pntype": "none",
+            "pos": "verb",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 2,
+            "tense": "imperfect",
+            "text": "יברך",
+            "trans": "JBRk"
+        },
+        {
+            "id": 1111066,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "NP",
+            "start": 3
+        },
+        {
+            "g": "unknown",
+            "id": 1058738,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 3,
+            "tense": "none",
+            "text": "גבר",
+            "trans": "GBR"
+        },
+        {
+            "id": 1111067,
+            "length": 2,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "NP",
+            "start": 4
+        },
+        {
+            "g": "unknown",
+            "id": 1058739,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "adjective",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 4,
+            "tense": "none",
+            "text": "ירא",
+            "trans": "JR>"
+        },
+        {
+            "g": "masculine",
+            "id": 1058740,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "proper",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 5,
+            "tense": "none",
+            "text": "יהוה",
+            "trans": "JHWH"
+        },
+        {
+            "id": 1123756,
+            "length": 4,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068132,
+            "length": 4,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "NullYqt",
+            "id": 1075550,
+            "length": 4,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111068,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "PreO",
+            "ptype": "VP",
+            "start": 0
+        },
+        {
+            "g": "masculine",
+            "id": 1058741,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "none",
+            "otype": "word",
+            "p": "third_person",
+            "pdpos": "verb",
+            "pntype": "none",
+            "pos": "verb",
+            "sg": "masculine",
+            "sn": "singular",
+            "sp": "second_person",
+            "start": 0,
+            "tense": "imperfect",
+            "text": "יברכך",
+            "trans": "JBRKk"
+        },
+        {
+            "id": 1111069,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "PrNP",
+            "start": 1
+        },
+        {
+            "g": "masculine",
+            "id": 1058742,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "proper",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 1,
+            "tense": "none",
+            "text": "יהוה",
+            "trans": "JHWH"
+        },
+        {
+            "id": 1111070,
+            "length": 2,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "PP",
+            "start": 2
+        },
+        {
+            "g": "none",
+            "id": 1058743,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "preposition",
+            "pntype": "none",
+            "pos": "preposition",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 2,
+            "tense": "none",
+            "text": "מ",
+            "trans": "M"
+        },
+        {
+            "g": "unknown",
+            "id": 1058744,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "proper",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 3,
+            "tense": "none",
+            "text": "ציון",
+            "trans": "YJWn"
+        },
+        {
+            "id": 1123757,
+            "length": 8,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068133,
+            "length": 8,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "Impv",
+            "id": 1075551,
+            "length": 8,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111071,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "CP",
+            "start": 0
+        },
+        {
+            "g": "none",
+            "id": 1058745,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "conjunction",
+            "pntype": "none",
+            "pos": "conjunction",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 0,
+            "tense": "none",
+            "text": "ו",
+            "trans": "W"
+        },
+        {
+            "id": 1111072,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Pred",
+            "ptype": "VP",
+            "start": 1
+        },
+        {
+            "g": "masculine",
+            "id": 1058746,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "none",
+            "otype": "word",
+            "p": "second_person",
+            "pdpos": "verb",
+            "pntype": "none",
+            "pos": "verb",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 1,
+            "tense": "imperative",
+            "text": "ראה",
+            "trans": "R>H"
+        },
+        {
+            "id": 1111073,
+            "length": 3,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "PP",
+            "start": 2
+        },
+        {
+            "g": "none",
+            "id": 1058747,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "preposition",
+            "pntype": "none",
+            "pos": "preposition",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 2,
+            "tense": "none",
+            "text": "ב",
+            "trans": "B"
+        },
+        {
+            "g": "unknown",
+            "id": 1058748,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 3,
+            "tense": "none",
+            "text": "טוב",
+            "trans": "VWB"
+        },
+        {
+            "g": "unknown",
+            "id": 1058749,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "proper",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 4,
+            "tense": "none",
+            "text": "ירושׁלם",
+            "trans": "JRWCLm"
+        },
+        {
+            "id": 1111074,
+            "length": 3,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "NP",
+            "start": 5
+        },
+        {
+            "g": "unknown",
+            "id": 1058750,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 5,
+            "tense": "none",
+            "text": "כל",
+            "trans": "KL"
+        },
+        {
+            "g": "masculine",
+            "id": 1058751,
+            "length": 1,
+            "loc": "Absent",
+            "n": "plural",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 6,
+            "tense": "none",
+            "text": "ימי",
+            "trans": "JMJ"
+        },
+        {
+            "g": "masculine",
+            "id": 1058752,
+            "length": 1,
+            "loc": "Absent",
+            "n": "plural",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "masculine",
+            "sn": "singular",
+            "sp": "second_person",
+            "start": 7,
+            "tense": "none",
+            "text": "חייך",
+            "trans": "XJJk"
+        },
+        {
+            "id": 1123758,
+            "length": 5,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068134,
+            "length": 5,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "Impv",
+            "id": 1075552,
+            "length": 5,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111075,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "CP",
+            "start": 0
+        },
+        {
+            "g": "none",
+            "id": 1058753,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "conjunction",
+            "pntype": "none",
+            "pos": "conjunction",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 0,
+            "tense": "none",
+            "text": "ו",
+            "trans": "W"
+        },
+        {
+            "id": 1111076,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Pred",
+            "ptype": "VP",
+            "start": 1
+        },
+        {
+            "g": "masculine",
+            "id": 1058754,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "none",
+            "otype": "word",
+            "p": "second_person",
+            "pdpos": "verb",
+            "pntype": "none",
+            "pos": "verb",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 1,
+            "tense": "imperative",
+            "text": "ראה",
+            "trans": "R>H"
+        },
+        {
+            "id": 1111077,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "NP",
+            "start": 2
+        },
+        {
+            "g": "masculine",
+            "id": 1058755,
+            "length": 1,
+            "loc": "Absent",
+            "n": "plural",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 2,
+            "tense": "none",
+            "text": "בנים",
+            "trans": "BNJm"
+        },
+        {
+            "id": 1111078,
+            "length": 2,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "PP",
+            "start": 3
+        },
+        {
+            "g": "none",
+            "id": 1058756,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "preposition",
+            "pntype": "none",
+            "pos": "preposition",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 3,
+            "tense": "none",
+            "text": "ל",
+            "trans": "L"
+        },
+        {
+            "g": "masculine",
+            "id": 1058757,
+            "length": 1,
+            "loc": "Absent",
+            "n": "plural",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "masculine",
+            "sn": "singular",
+            "sp": "second_person",
+            "start": 4,
+            "tense": "none",
+            "text": "בניך",
+            "trans": "BNJk"
+        },
+        {
+            "id": 1123759,
+            "length": 3,
+            "otype": "sentence",
+            "start": 0
+        },
+        {
+            "ccr": "none",
+            "domain": "Unknown",
+            "edomain": "none",
+            "id": 1068135,
+            "length": 3,
+            "otype": "clause",
+            "start": 0,
+            "ttype": "?"
+        },
+        {
+            "catype": "NmCl",
+            "id": 1075553,
+            "length": 3,
+            "otype": "clause_atom",
+            "start": 0
+        },
+        {
+            "id": 1111079,
+            "length": 1,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "NP",
+            "start": 0
+        },
+        {
+            "g": "unknown",
+            "id": 1058758,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "common",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 0,
+            "tense": "none",
+            "text": "שׁלום",
+            "trans": "CLWm"
+        },
+        {
+            "id": 1111080,
+            "length": 2,
+            "otype": "phrase",
+            "pfunc": "Unkn",
+            "ptype": "PP",
+            "start": 1
+        },
+        {
+            "g": "none",
+            "id": 1058759,
+            "length": 1,
+            "loc": "Absent",
+            "n": "none",
+            "ntype": "none",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "preposition",
+            "pntype": "none",
+            "pos": "preposition",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 1,
+            "tense": "none",
+            "text": "על",
+            "trans": "<L"
+        },
+        {
+            "g": "unknown",
+            "id": 1058760,
+            "length": 1,
+            "loc": "Absent",
+            "n": "singular",
+            "ntype": "proper",
+            "otype": "word",
+            "p": "none",
+            "pdpos": "noun",
+            "pntype": "none",
+            "pos": "noun",
+            "sg": "none",
+            "sn": "none",
+            "sp": "none",
+            "start": 2,
+            "tense": "none",
+            "text": "ישׂראל",
+            "trans": "JFR>L"
+        }
+    ]
+}
