@@ -66,6 +66,7 @@ In order to run these notebooks, you need:
 * download/clone [LAF-Fabric](https://github.com/ETCBC/laf-fabric)
 * read some documentation [LAF-Fabric](http://laf-fabric.readthedocs.org/en/latest/)
 * [download](https://www.dropbox.com/s/1oqvb92sqn7vuml/laf-fabric-data.zip) the compiled LAF version of the Hebrew Bible
-  (this is a password protected zip file of ~ 150 MB, ask [Dirk Roorda](dirk.roorda@dans.knaw.nl) for the password).
-* see other notebooks at [contributions](https://github.com/ETCBC/contributions)
+  (this is a password protected zip file of ~ 500 MB, ask [Dirk Roorda](dirk.roorda@dans.knaw.nl) for the password).
+  This file contains the BHS3 and BHS4 and CALAP databases, as EMDROS dump, as EMDROS SQLite3 database and as compiled LAF data.
+* see other notebooks at [contributions](https://github.com/ETCBC/contributions) and [study](https://github.com/ETCBC/study)
 
