@@ -20,17 +20,22 @@ He finds water and drinks and lets other people drink.
 ## Text
 View the text itself, or visualizations of it.
 
-* [plain](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/plain.ipynb)
-* [proper](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/proper.ipynb)
+* [plain](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/text/plain.ipynb)
+* [proper](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/text/proper.ipynb)
 
 Or view parts of the [Peshitta](http://en.wikipedia.org/wiki/Peshitta) text:
 
-* [plain-calap](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/plain_calap.ipynb)
+* [plain-calap](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/syriac/plain_calap.ipynb)
 
-## Annotating
+## Extra data
 Making your own annotation and add them to the data for new analysis.
 
-* [annox_workflow](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/annox_workflow.ipynb)
+* [annox_workflow](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/extradata/annox_workflow.ipynb)
+
+We used this approach to include data from the ETCBC centre that did not make it (yet) into their EMDROS database: paragraph information.
+See
+
+* [para from px](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/extradata/para from px.ipynb)
 
 ## Feature Studies
 Explorations into the features in the ETCBC text database of the Hebrew Bible.
@@ -42,23 +47,40 @@ The other notebooks contain descriptions of the meanings of certain features and
 and they will show you examples, and they will test assertions about them.
 For example: *the ``clause_constituent_relation``-feature has value ``none`` for a node if and only if that node has no outgoing edges labeled ``mother``*.
 
-* [feature-doc](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/feature-doc.ipynb)
-* [clause_phrase_types](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/clause_phrase_types.ipynb)
+* [feature-doc](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/featuredoc/feature-doc.ipynb)
+* [clause_phrase_types](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/featuredoc/clause_phrase_types.ipynb)
 
 # Linguistic Variation
 Research into linguistic variation in the Hebrew Bible books.
 Datamining, statistics, visualization.
 
-* [cooccurrences](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/cooccurrences.ipynb)
+* [cooccurrences](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/lingvar/cooccurrences.ipynb)
+* [participle](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/lingvar/participle.ipynb)
 
 ## Syntax
 Research to syntactic phenomena in the sentences of the Hebrew Bible.
 Tree construction.
 Correlating morphological features to syntactic functions.
 
-* [trees (bhs)](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/trees_bhs.ipynb)
-* [trees (calap)](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/trees_calap.ipynb)
-* [participle](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/participle.ipynb)
+* [trees (bhs)](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/trees/trees_bhs.ipynb)
+* [trees (calap)](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/trees/trees_calap.ipynb)
+
+## Participants
+Research into the question who is saying what to whom in the psalms.
+There are sudden shifts of the discourse *participants* in the psalms.
+Can we chart the particiapnts in such a way that we see patterns in those shifts.
+We aim to do network analysis with [AMCAT](http://amcat.vu.nl), and in the notebooks here we do explorative data preparation.
+
+* [psalms12viz](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/trees/psalms12viz.ipynb)
+
+## Querying
+A database exists for the purpose of querying, and the ETCBC databas, in its EMDROS form, can be queried by means
+of the MQL query language.
+The LAF representation does not come with any serious querying functionality other than what you can do in Python.
+But there is an module *etcbc.mql* by which you can fire queries to your local copy of the ETCBC database in sqlite3.
+You can then retrieve the result as LAF node sets and continue with LAF-Fabric processing with these results.
+
+* [MQL](http://nbviewer.ipython.org/github/ETCBC/laf-fabric-nbs/blob/master/querying/querying.ipynb)
 
 # Getting started
 In order to run these notebooks, you need:
