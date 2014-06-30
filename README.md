@@ -90,5 +90,8 @@ In order to run these notebooks, you need:
 * [download](https://www.dropbox.com/s/1oqvb92sqn7vuml/laf-fabric-data.zip) the compiled LAF version of the Hebrew Bible
   (this is a password protected zip file of ~ 500 MB, ask [Dirk Roorda](dirk.roorda@dans.knaw.nl) for the password).
   This file contains the BHS3 and BHS4 and CALAP databases, as EMDROS dump, as EMDROS SQLite3 database and as compiled LAF data.
+* Currently, the BHS4 is in beta. Every week a new update is being made. You can get these updates
+  [separately](https://www.dropbox.com/s/t4b27tot4r5vqjy/laf-fabric-data-bhs4.zip). This file
+  is a zip with password of ~ 275 MB, structured in the same way as the complete data directory above.
 * see other notebooks at [contributions](https://github.com/ETCBC/contributions) and [study](https://github.com/ETCBC/study)
 
