@@ -1,5 +1,6 @@
 ![shebanq](https://raw.github.com/ETCBC/laf-fabric-nbs/master/images/VU-ETCBC-small.png)
 ![laf-fabric](https://raw.github.com/ETCBC/laf-fabric-nbs/master/images/laf-fabric-small.png)
+![etcbc4easy](https://raw.github.com/ETCBC/laf-fabric-nbs/master/images/etcbc4easy-small.png)
 
 IPython notebooks developed for the study of the Hebrew Bible and their textual sources.
 
@@ -87,11 +88,7 @@ In order to run these notebooks, you need:
 
 * download/clone [LAF-Fabric](https://github.com/ETCBC/laf-fabric)
 * read some documentation [LAF-Fabric](http://laf-fabric.readthedocs.org/en/latest/)
-* [download](https://www.dropbox.com/s/1oqvb92sqn7vuml/laf-fabric-data.zip) the compiled LAF version of the Hebrew Bible
-  (this is a password protected zip file of ~ 500 MB, ask [Dirk Roorda](dirk.roorda@dans.knaw.nl) for the password).
-  This file contains the BHS3 and BHS4 and CALAP databases, as EMDROS dump, as EMDROS SQLite3 database and as compiled LAF data.
-* Currently, the BHS4 is in beta. Every week a new update is being made. You can get these updates
-  [separately](https://www.dropbox.com/s/t4b27tot4r5vqjy/laf-fabric-data-bhs4.zip). This file
-  is a zip with password of ~ 275 MB, structured in the same way as the complete data directory above.
+* [download data from the archive DANS-EASY](http://www.persistent-identifier.nl/?identifier=urn%3Anbn%3Anl%3Aui%3A13-048i-71).
+  Hint: the compiled LAF version of the Hebrew Bible will suffice: *laf-fabric-data.zip*.
 * see other notebooks at [contributions](https://github.com/ETCBC/contributions) and [study](https://github.com/ETCBC/study)
 
